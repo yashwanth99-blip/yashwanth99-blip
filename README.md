@@ -1,16 +1,20 @@
-## Hi there 👋
+�
+Hi 👋, I'm Yashwanth
 
-<!--
-**yashwanth99-blip/yashwanth99-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & ML Enthusiast | Full-Stack Dev | B.E. CSE @ GEC Hassan, VTU
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+�
+
+
+🎓 Final year B.E. CSE at GEC Hassan, VTU (2022–2026)
+💡 Passionate about AI, Machine Learning & Software Development
+🤖 Working on projects involving YOLOv8, Raspberry Pi & Swarm Intelligence
+🌱 Currently learning Spring Boot, Full-Stack Java
+💬 Ask me about AI, ML, Python, Java, React
+📫 Reach me at yashwanth99-blip on GitHub
+
+💻 I Code In
+�
+￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
+
